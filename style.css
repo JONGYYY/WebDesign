@@ -1,3 +1,8 @@
 body {
   background-color: #FAEBD7;
 }
+
+p, h1, h2, img {
+  color: Black;
+  text-align: center;
+}
