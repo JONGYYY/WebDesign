@@ -8,14 +8,14 @@ p, h1, h2, h3, h4 {
 }
 h3 { font-size: 80px; }
 h4 { 
-  display: block; 
-  font-size: 45px; 
+  font-size: 69px; 
 }
 
 p {
   margin-left: 40px;
 }
 img {
+  display: block; 
   margin: auto; 
 }
 
