@@ -2,13 +2,16 @@ body {
   background-color: #FAEBD7;
 }
 
-p, h1, h2, img, h3{
+p, h1, h2, h3{
   color: Black;
   text-align: center;
 }
 h3 { font-size: 80px; }
 
 p {
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 40px;
 }
+img {
+  margin: auto; 
+}
+
