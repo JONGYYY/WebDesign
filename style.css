@@ -2,12 +2,15 @@ body {
   background-color: #FAEBD7;
 }
 
-p, h1, h2, h3, h4{
+p, h1, h2, h3, h4 {
   color: Black;
   text-align: center;
 }
 h3 { font-size: 80px; }
-h4 { font-size: 45px; }
+h4 { 
+  display: block; 
+  font-size: 45px; 
+}
 
 p {
   margin-left: 40px;
