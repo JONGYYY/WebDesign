@@ -19,7 +19,7 @@ img {
   margin: auto; 
 }
 
-p2 {
-  padding-right: 200px;
-  padding-left: 200px;
+.paragraph 2 {
+  margin: auto;
+  width: 400px;
 }
