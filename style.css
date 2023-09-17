@@ -12,7 +12,10 @@ h4 {
 }
 
 p {
-  margin-left: 40px;
+  padding: 1em;
+  margin: 1em;
+  background-color: cornsilk;
+  border-radius: 12px;
 }
 img {
   display: block; 
@@ -26,4 +29,5 @@ img {
 
 .Title {
   font-weight: bold;
+  
 }
